@@ -1,0 +1,14 @@
+
+HISTORY OF JS:
+
+1995 : The very first version of JS. It was called Mocha, but already had many fundamental features of modern JS.
+
+1996: Mocha changes to LiveScript and then to JS in order to attract Java developers. JS has nothing to do with Java.
+
+1997: To standardize the language, ECMA releases ECMAScript1(ES1), the first official standard for JS.
+
+2009: ES5 is released with lots of new great features.
+
+2015: ES6/ECMAScript 2015 was released as the biggest update to the language ever.
+
+2016 - ……. continues
