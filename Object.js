@@ -11,3 +11,12 @@ const jonas = {
 console.log(jonas);
 console.log(jonas.firstName);
 console.log(jonas.friends[2]);
+console.log(jonas["firstName"]);
+const key = "Name";
+
+console.log(jonas["first" + key]);
+console.log(jonas["last" + key]);
+console.log(jonas['friends'])
+console.log(jonas.friends[2])
+console.log(jonas['friends'][2])
+console.log(jonas['friends'][0])
